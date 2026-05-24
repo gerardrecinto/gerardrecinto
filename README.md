@@ -4,6 +4,9 @@
 
 Senior Software Engineer based in San Diego. Eight years at Qualcomm building CI/CD infrastructure, cloud platform tooling, and developer productivity systems.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gerardrecinto-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/gerardrecinto)
+[![Email](https://img.shields.io/badge/Email-gerardrecinto%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:gerardrecinto@gmail.com)
+
 ---
 
 ## Tools & Experience
@@ -41,3 +44,10 @@ Senior Software Engineer based in San Diego. Eight years at Qualcomm building CI
 | [argocd-gitops](https://github.com/gerardrecinto/argocd-gitops) | App-of-Apps, ApplicationSets, multi-cluster GitOps workflows |
 | [devops-mcp](https://github.com/gerardrecinto/devops-mcp) | MCP server: Claude + Jenkins + Kubernetes + AWS + GitHub |
 | [singing-coach-ios](https://github.com/gerardrecinto/singing-coach-ios) | iOS app — vDSP pitch detection + Claude AI vocal coaching |
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=gerardrecinto&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardrecinto&layout=compact&theme=dark&hide_border=true&langs_count=8)
