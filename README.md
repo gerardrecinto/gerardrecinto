@@ -44,6 +44,8 @@ I turn messy operational systems into products: build farms, GitOps workflows, M
 
 More detail: [Monetization Map](docs/monetization-map.md)
 
+Full account strategy: [Repository Audit](docs/repository-audit.md)
+
 ---
 
 ## Portfolio Demo
