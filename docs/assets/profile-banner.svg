@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Gerard Recinto platform engineering banner</title>
+  <desc id="desc">A clean platform engineering banner showing CI, cloud, GitOps, AI, and product systems connected through an operating layer.</desc>
+  <rect width="1280" height="420" fill="#0b1020"/>
+  <path d="M0 315 C160 250 260 380 430 310 C620 235 760 265 930 200 C1090 140 1180 170 1280 110 L1280 420 L0 420 Z" fill="#13233f"/>
+  <path d="M0 355 C180 290 310 405 500 340 C690 275 810 315 1010 245 C1160 192 1220 220 1280 185 L1280 420 L0 420 Z" fill="#0f3b4a"/>
+  <g fill="none" stroke="#2dd4bf" stroke-width="2" opacity="0.6">
+    <path d="M160 245 H345"/>
+    <path d="M345 245 H530"/>
+    <path d="M530 245 H715"/>
+    <path d="M715 245 H900"/>
+    <path d="M900 245 H1085"/>
+  </g>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="70" y="105" fill="#f8fafc" font-size="50" font-weight="800">Gerard Recinto</text>
+    <text x="74" y="150" fill="#cbd5e1" font-size="24">Platform Engineering • CI/CD • GitOps • AI for DevOps</text>
+    <text x="74" y="190" fill="#94a3b8" font-size="19">$26M/year cloud savings · 7h to 15m CI builds · 475+ Jenkins pipelines</text>
+  </g>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="700">
+    <g transform="translate(110 225)">
+      <rect width="125" height="52" rx="10" fill="#18243a" stroke="#38bdf8"/>
+      <text x="31" y="33" fill="#e0f2fe">CI/CD</text>
+    </g>
+    <g transform="translate(295 225)">
+      <rect width="125" height="52" rx="10" fill="#18243a" stroke="#2dd4bf"/>
+      <text x="31" y="33" fill="#ccfbf1">GitOps</text>
+    </g>
+    <g transform="translate(480 225)">
+      <rect width="125" height="52" rx="10" fill="#18243a" stroke="#a78bfa"/>
+      <text x="34" y="33" fill="#ede9fe">Cloud</text>
+    </g>
+    <g transform="translate(665 225)">
+      <rect width="125" height="52" rx="10" fill="#18243a" stroke="#f59e0b"/>
+      <text x="44" y="33" fill="#fef3c7">MCP</text>
+    </g>
+    <g transform="translate(850 225)">
+      <rect width="125" height="52" rx="10" fill="#18243a" stroke="#fb7185"/>
+      <text x="49" y="33" fill="#ffe4e6">AI</text>
+    </g>
+    <g transform="translate(1035 225)">
+      <rect width="125" height="52" rx="10" fill="#18243a" stroke="#84cc16"/>
+      <text x="24" y="33" fill="#ecfccb">Products</text>
+    </g>
+  </g>
+  <g opacity="0.85">
+    <circle cx="160" cy="245" r="7" fill="#38bdf8"/>
+    <circle cx="345" cy="245" r="7" fill="#2dd4bf"/>
+    <circle cx="530" cy="245" r="7" fill="#a78bfa"/>
+    <circle cx="715" cy="245" r="7" fill="#f59e0b"/>
+    <circle cx="900" cy="245" r="7" fill="#fb7185"/>
+    <circle cx="1085" cy="245" r="7" fill="#84cc16"/>
+  </g>
+</svg>
