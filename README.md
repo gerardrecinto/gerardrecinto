@@ -2,7 +2,7 @@
 
 ![Gerard Recinto platform engineering banner](docs/assets/profile-banner.svg)
 
-Senior Software Engineer in San Diego building CI/CD systems, cloud platform tooling, and AI-assisted developer infrastructure.
+Senior Software Engineer building CI/CD systems, cloud platform tooling, and AI-assisted developer infrastructure.
 
 I turn messy operational systems into products: build farms, GitOps workflows, MCP servers, artifact platforms, and automation that saves time, money, and incident response effort.
 
@@ -26,7 +26,7 @@ I turn messy operational systems into products: build farms, GitOps workflows, M
 ## Selected Impact
 
 - **$26.28M/year** in S3 cost savings by tiering 9 PB of data to Glacier Deep Archive.
-- **CI build time 6h59m to 15 min** by moving large binary assets from Git LFS to Artifactory with multi-threaded Python.
+- **CI build time 6h59m to 15 min** by moving large binary assets out of Git LFS into a dedicated artifact platform with multi-threaded Python.
 - **Release cycle 2+ hours to 5 min**, and MTTR **30 min to 2 min** through rollback automation.
 - **475+ Jenkins pipelines** across 10+ product lines and 5 global regions.
 - Built MCP tooling that connects AI assistants to engineering systems like GitHub, Jenkins, Kubernetes, AWS, Grafana, Jira, and Confluence.
