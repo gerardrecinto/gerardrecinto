@@ -25,7 +25,7 @@ This is the practical portfolio strategy: make the GitHub profile look like a fo
 
 ## Tier 3: Archive Or Reframe
 
-Old coursework, clone apps, and interview repos should not dominate the profile. They can stay public as learning history, but the profile should point visitors toward the productizable repos above.
+Old coursework and clone apps should not dominate the profile. They can stay public as learning history, but the profile should point visitors toward the productizable repos above.
 
 Recommended actions:
 
