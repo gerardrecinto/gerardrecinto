@@ -38,11 +38,6 @@ Recommended treatment:
 3. Add "learning project" language where appropriate.
 4. Archive only if they distract or contain stale/broken setup instructions.
 
-## Private / Prep Repos
-
-These are private or personal prep and should not be part of the public monetization funnel unless intentionally cleaned and opened.
-
-`apple-interview-coding`, `apple-system-design-prep`, `puerto-vallarta-spanish-study`, `amazonCodePractice`, `STAR_apple_interview_study`, `FAANG_OAs`, `low_level_Design`, `pramp`, `reactjs-portfolio`, `Angular-Portfolio`, `paramiko_generic_readcsv_python`, `aws-devops-training`, `apple_devops_interview_questions`, `Terraform-notes`, `Terraform-Experiment`, `CKA-notes`, `CKA-udemy-yamls`, `AWS-Certified-DevOps-Course-Notes`, `aws-certified-devops-notes`, and older interview/course repos.
 
 ## Forks
 
